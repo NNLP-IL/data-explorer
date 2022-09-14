@@ -1,6 +1,7 @@
 # Explorer documentation
-The project is part of NNLP-IL. NNLP-IL is a national initiative for the creation of infrastructure, research and development of advanced capabilities for the advancement of the field of NLP in Hebrew and Arabic. More about that here
+The project is part of NNLP-IL. NNLP-IL is a national initiative for the creation of infrastructure, research and development of advanced capabilities for the advancement of the field of NLP in Hebrew and Arabic. More about that [here](https://nnlp-il.mafat.ai/)
 
+[Explorer](https://dataset-explorer.nnlp-il.mafat.ai/)
 Lemmatization was performed using [Trankit](https://github.com/nlp-uoregon/trankit).  
 By using our extended list, we can remove [stopwords](https://github.com/NNLP-IL/Stop-Words-Hebrew).
 
